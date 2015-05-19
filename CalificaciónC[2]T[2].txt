@@ -1,0 +1,16 @@
+Trabajo-2 (T2) (C. Junio)	14.5/18.5
+Observaciones: FERNANDEZ_BOSCH_PEDRO_76422233: 14.5
+
+Cuestionario: 6.5
+1.- 1 (faltan detalles y hay fallos en las deducciones)
+2.- 1 (faltan detalles y hay fallos en las expresiones)
+3.- 1
+4.- 1.5
+5.- 2
+Bonus:0
+
+Ejercicios: 8
+
+Ej-1: bien
+Ej-2: bien
+Ej-3: Enfoque erroneo. No se seleccionan las variables con VC.(ver pag 248 del libro)
